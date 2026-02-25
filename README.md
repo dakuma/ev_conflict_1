@@ -1,2 +1,2 @@
 # ev_conflict_1
-First example of a merge conflict
+I am the King of Git!
